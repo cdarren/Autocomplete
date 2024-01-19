@@ -1,7 +1,3 @@
-"""
-6.1010 Spring '23 Lab 9: Autocomplete
-"""
-
 #!/usr/bin/env python3
 import os.path
 import lab
